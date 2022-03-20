@@ -5,7 +5,7 @@
 
 body{
     height: auto;
-    padding-bottom: 1rem;
+    
 }
 
 form{
@@ -283,4 +283,11 @@ input::-webkit-input-placeholder {
     100%{background-color: green;}
 }
 
+#nt{
+    contain: '';
+    width: 100%;
+    height: 40px;
+       
+    
+}
 
