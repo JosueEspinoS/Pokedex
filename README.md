@@ -1,4 +1,4 @@
-# pokedex
+# Pokédex
  Creación de una pokédex consultando la pokeAPI
  ## Práctica
 - Maquetación del sitio con HTML
