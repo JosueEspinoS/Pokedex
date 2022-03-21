@@ -29,8 +29,8 @@ const fetchPokemon = () => {
         }
     }).then((data) => { // terminamos la promesa recolectando la data en una variable llamada data
         console.log(data);
-        let pokeImg = data.sprites.other.home.front_default;
-        let pokeImgShiny = data.sprites.other.home.front_shiny;
+        let pokeImg = data.sprites.front_default;
+        let pokeImgShiny = data.sprites.front_shiny;
         let pName = data.species.name;
         let idPoke = `No°: ${data.id}`;
         //let typePoke = data.types[0].type.name
