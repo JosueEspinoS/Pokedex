@@ -20,5 +20,5 @@ Bonus:
 Pueden usar los conocimientos vistos o usar diferentes herramientas que conozcan o que investiguen como las librerías de diseño o librerías de JS sin problemas.
 
 
- ## link
-  [link](https://josueespinos.github.io/Pokedex/)
+ ## Link
+  Visita la [Pokédex](https://josueespinos.github.io/Pokedex/)
