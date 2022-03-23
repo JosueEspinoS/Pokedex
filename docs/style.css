@@ -75,7 +75,7 @@ input::-webkit-input-placeholder {
     justify-content: space-between;
     align-content: space-between;
     padding: 5px;
-    font-size: 13px;
+    font-size: 11px;
 }
 .poke-moves{
     height: 200px;
